@@ -1,0 +1,13 @@
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\bin\Debug\Lab1.exe
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\bin\Debug\Lab1_ControlLibrary.dll
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\bin\Debug\Lab1_ControlLibrary.pdb
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1_Kiian.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1_Kiian.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1_Kiian.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1.exe
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1_Kiian.csproj.Up2Date

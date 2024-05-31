@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_Kiian", "Lab1\Lab1_Kiian.csproj", "{C9F87F71-71F2-45C7-82EE-DA332E6C49D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_ControlLibrary", "Lab1_ControlLibrary\Lab1_ControlLibrary.csproj", "{FDC8BBB5-9417-4C81-AEFA-33E7872650F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9F87F71-71F2-45C7-82EE-DA332E6C49D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F87F71-71F2-45C7-82EE-DA332E6C49D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F87F71-71F2-45C7-82EE-DA332E6C49D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F87F71-71F2-45C7-82EE-DA332E6C49D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC8BBB5-9417-4C81-AEFA-33E7872650F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC8BBB5-9417-4C81-AEFA-33E7872650F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC8BBB5-9417-4C81-AEFA-33E7872650F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC8BBB5-9417-4C81-AEFA-33E7872650F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26995361-2654-4A0D-8110-D96CAC4AFDA2}
+	EndGlobalSection
+EndGlobal

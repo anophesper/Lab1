@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1_ControlLibrary\bin\Debug\Lab1_ControlLibrary.dll
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1_ControlLibrary\bin\Debug\Lab1_ControlLibrary.pdb
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1_ControlLibrary\obj\Debug\Lab1_ControlLibrary.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1_ControlLibrary\obj\Debug\Lab1_ControlLibrary.Lab1_Kiian.resources
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1_ControlLibrary\obj\Debug\Lab1_ControlLibrary.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1_ControlLibrary\obj\Debug\Lab1_ControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1_ControlLibrary\obj\Debug\Lab1_ControlLibrary.dll
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1_ControlLibrary\obj\Debug\Lab1_ControlLibrary.pdb
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1_ControlLibrary\obj\Debug\Lab1_ControlLibrary.Properties.Resources.resources

@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\bin\Debug\Lab1.exe
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1.exe
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\Lab1\obj\Debug\Lab1.pdb

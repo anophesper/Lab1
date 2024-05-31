@@ -1,0 +1,2 @@
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\obj\Debug\Lab1_Kiian.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\Lab1_Kiian\obj\Debug\Lab1_Kiian.csproj.CoreCompileInputs.cache

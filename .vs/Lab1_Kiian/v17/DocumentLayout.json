@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\labs\\Second\\APPZ\\Lab1_Kiian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC8BBB5-9417-4C81-AEFA-33E7872650F8}|Lab1_ControlLibrary\\Lab1_ControlLibrary.csproj|c:\\users\\owner\\desktop\\labs\\second\\appz\\lab1_kiian\\lab1_controllibrary\\lab1_kiian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDC8BBB5-9417-4C81-AEFA-33E7872650F8}|Lab1_ControlLibrary\\Lab1_ControlLibrary.csproj|solutionrelative:lab1_controllibrary\\lab1_kiian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC8BBB5-9417-4C81-AEFA-33E7872650F8}|Lab1_ControlLibrary\\Lab1_ControlLibrary.csproj|C:\\Users\\Owner\\Desktop\\labs\\Second\\APPZ\\Lab1_Kiian\\lab1_controllibrary\\lab1_kiian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC8BBB5-9417-4C81-AEFA-33E7872650F8}|Lab1_ControlLibrary\\Lab1_ControlLibrary.csproj|solutionrelative:lab1_controllibrary\\lab1_kiian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC8BBB5-9417-4C81-AEFA-33E7872650F8}|Lab1_ControlLibrary\\Lab1_ControlLibrary.csproj|C:\\Users\\Owner\\Desktop\\labs\\Second\\APPZ\\Lab1_Kiian\\lab1_controllibrary\\resources\\lab1_icon.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FDC8BBB5-9417-4C81-AEFA-33E7872650F8}|Lab1_ControlLibrary\\Lab1_ControlLibrary.csproj|solutionrelative:lab1_controllibrary\\resources\\lab1_icon.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F87F71-71F2-45C7-82EE-DA332E6C49D6}|Lab1\\Lab1_Kiian.csproj|C:\\Users\\Owner\\Desktop\\labs\\Second\\APPZ\\Lab1_Kiian\\lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9F87F71-71F2-45C7-82EE-DA332E6C49D6}|Lab1\\Lab1_Kiian.csproj|solutionrelative:lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab1_Icon.bmp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\labs\\Second\\APPZ\\Lab1_Kiian\\Lab1_ControlLibrary\\Resources\\Lab1_Icon.bmp",
+              "RelativeDocumentMoniker": "Lab1_ControlLibrary\\Resources\\Lab1_Icon.bmp",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\labs\\Second\\APPZ\\Lab1_Kiian\\Lab1_ControlLibrary\\Resources\\Lab1_Icon.bmp",
+              "RelativeToolTip": "Lab1_ControlLibrary\\Resources\\Lab1_Icon.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-16T13:07:25.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\labs\\Second\\APPZ\\Lab1_Kiian\\Lab1\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\labs\\Second\\APPZ\\Lab1_Kiian\\Lab1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:51:56.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab1_Kiian.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\labs\\Second\\APPZ\\Lab1_Kiian\\Lab1_ControlLibrary\\Lab1_Kiian.cs",
+              "RelativeDocumentMoniker": "Lab1_ControlLibrary\\Lab1_Kiian.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\labs\\Second\\APPZ\\Lab1_Kiian\\Lab1_ControlLibrary\\Lab1_Kiian.cs",
+              "RelativeToolTip": "Lab1_ControlLibrary\\Lab1_Kiian.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:05:31.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab1_Kiian.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\labs\\Second\\APPZ\\Lab1_Kiian\\Lab1_ControlLibrary\\Lab1_Kiian.cs",
+              "RelativeDocumentMoniker": "Lab1_ControlLibrary\\Lab1_Kiian.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\labs\\Second\\APPZ\\Lab1_Kiian\\Lab1_ControlLibrary\\Lab1_Kiian.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab1_ControlLibrary\\Lab1_Kiian.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T15:46:53.754Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
